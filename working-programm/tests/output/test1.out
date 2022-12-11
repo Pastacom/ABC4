@@ -1,0 +1,15 @@
+registration called out Patient Ytdkhtujn Tcokejjjtqmeg Illness(type, stage) = (2, 9).
+registration called out Patient Whhdfstf Cszvevgmrthbs Illness(type, stage) = (1, 10).
+Patient Ytdkhtujn Tcokejjjtqmeg Illness(type, stage) = (2, 9) has left registration.
+Patient Ytdkhtujn Tcokejjjtqmeg Illness(type, stage) = (2, 9) got in queue to surgeon.
+Patient Whhdfstf Cszvevgmrthbs Illness(type, stage) = (1, 10) has left registration.
+Patient Whhdfstf Cszvevgmrthbs Illness(type, stage) = (1, 10) got in queue to dentist.
+dentist called out Patient Whhdfstf Cszvevgmrthbs Illness(type, stage) = (1, 10).
+registration called out Patient Ykqnlelkox Zupcuecz Illness(type, stage) = (2, 8).
+surgeon called out Patient Ytdkhtujn Tcokejjjtqmeg Illness(type, stage) = (2, 9).
+Patient Ykqnlelkox Zupcuecz Illness(type, stage) = (2, 8) has left registration.
+Patient Ykqnlelkox Zupcuecz Illness(type, stage) = (2, 8) got in queue to surgeon.
+Patient Ytdkhtujn Tcokejjjtqmeg Illness(type, stage) = (2, 9) has left surgeon.
+Patient Whhdfstf Cszvevgmrthbs Illness(type, stage) = (1, 10) has left dentist.
+surgeon called out Patient Ykqnlelkox Zupcuecz Illness(type, stage) = (2, 8).
+Patient Ykqnlelkox Zupcuecz Illness(type, stage) = (2, 8) has left surgeon.
